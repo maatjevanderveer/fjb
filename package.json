@@ -1,0 +1,19 @@
+{
+  "name": "fjb",
+  "version": "1.0.0",
+  "description": "personal website for frans bootsman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maatjevanderveer/fjb.git"
+  },
+  "author": "maatje van der veer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maatjevanderveer/fjb/issues"
+  },
+  "homepage": "https://github.com/maatjevanderveer/fjb#readme"
+}
